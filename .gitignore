@@ -1,0 +1,15 @@
+migrations/
+__pycache__/
+.ipynb_checkpoints/
+*.sqlite3
+.DS_Store
+
+gec_model/
+glove.840B.300d.magnitude
+emb_vec.npy
+
+wiki_crawler.ipynb
+wiki_misspellings.txt
+wiki_homophones.txt
+Conventional.ipynb
+big.txt
