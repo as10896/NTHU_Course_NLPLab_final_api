@@ -33,6 +33,6 @@ torch==0.4.0
 torchtext==0.2.3
 tqdm==4.23.4
 traitlets==4.3.2
-urllib3==1.22
+urllib3==1.24.2
 wcwidth==0.1.7
 xxhash==1.0.1
