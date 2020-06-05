@@ -4,7 +4,7 @@ backcall==0.1.0
 certifi==2018.4.16
 chardet==3.0.4
 decorator==4.3.0
-Django==2.0.6
+Django==2.2.13
 django-cors-headers==2.2.0
 faiss==0.1
 fasteners==0.14.1
